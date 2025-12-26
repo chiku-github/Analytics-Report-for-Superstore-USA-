@@ -112,7 +112,3 @@ These products contribute significantly to overall revenue.
 - `README.md`
 
 ---
-
-## 📷 Dashboard Preview
-```md
-![Superstore Dashboard](dashboard.png)
